@@ -3,6 +3,8 @@
 > React components and hooks for fast building dApps without running own backend
 
 * YOUTUBE Tutorials: https://www.youtube.com/watch?v=WZWCzsB1xUE&t=3739s
+* https://www.youtube.com/watch?v=-XNJzWwWfAA
+* https://moralis.io/how-to-create-an-nft-marketplace/
 
 🚀DEMO: https://ethereum-boilerplate.github.io/ethereum-boilerplate
 
